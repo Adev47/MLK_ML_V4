@@ -1,3 +1,3 @@
-CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MLK_MW3_CHAIR.exe
+CHAIR,updating,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MLK_MW3_CHAIR.exe
 UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MLK_MWIII_UA_UNBRANDED_V3.7.exe
 AIO,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MLK_MW3_AIO.exe
