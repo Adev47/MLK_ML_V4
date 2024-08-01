@@ -3,3 +3,4 @@ UNLOCK ALL + WOOFER,offline,1.00.06,https://raw.githubusercontent.com/Adev47/MLK
 AIO + BLOCKER,offline,1.00.02,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/MW3_AIO__Blocker.exe
 VIP CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/CORTEX.exe
 SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/Byr723V3Cq1.exe
+CHAIR + BLOCKER,online,1.00.01,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/MW3_CHEAT.exe
