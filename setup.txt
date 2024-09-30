@@ -1,7 +1,7 @@
 [design]
 highlight_color = #000000
 loader_box_color = #FF0000
-main_text_color = #000000
+main_text_color = #FFFFFF
 main_widgets_color = #000000
 
 [links]
