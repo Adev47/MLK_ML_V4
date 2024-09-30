@@ -6,7 +6,7 @@ main_widgets_color = #FF0000
 
 [links]
 discord_link = https://discord.gg/mlkshop
-guide_link = https://xyzexe.gitbook.io/mwiii-cheat-guidebook
+guide_link = https://mlks-organization.gitbook.io/mlk-shop-guide/
 website_link = https://mlkservices.sellauth.com
 
 [rounded_corners]
