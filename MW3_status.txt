@@ -1,6 +1,6 @@
 SHADOW CHAIR + BLOCKER,updating,1.00.02,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/MW3_Chair__Blocker.exe
 UNLOCK ALL + WOOFER,online,1.00.06,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/MWIII.exe
-KURIBOH CHAIR,online,1.00.03,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/Loader.exe
+KURIBOH CHAIR,online,1.00.04,https://raw.githubusercontent.com/avod245/1104410753529806999_cloud/main/Loader.exe
 AIO + BLOCKER,offline,1.00.02,https://raw.githubusercontent.com/avod245/1104410753529806999_cloud/main/AIO.exe
 SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/Byr723V3Cq1.exe
 CHAIR + BLOCKER,online,1.00.01,https://raw.githubusercontent.com/Adev47/MLK_ML_V4/main/uploads/MW3_CHEAT.exe
