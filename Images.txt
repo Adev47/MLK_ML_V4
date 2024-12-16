@@ -1,4 +1,4 @@
-Logo,1.00.02,https://raw.githubusercontent.com/avod245/1104410753529806999_cloud/main/LOGO.gif
+Logo,1.00.03,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/MLK_LOGO_V4.gif
 News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
 Lateral_Menu,1.00.03,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/fade_red_template_default_lateral.png
 Background,1.00.04,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/fade_red_template_default_background.png
